@@ -10,6 +10,6 @@ public class Home {
     
     @GetMapping
     public String home() {
-        return "hello";
+        return "hello from Demo Spring Docker app";
     }
 }
